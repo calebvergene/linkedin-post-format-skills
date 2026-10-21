@@ -1,38 +1,38 @@
 # linkedin-skills
 
-Claude skills for writing LinkedIn posts.
+Claude skills for writing LinkedIn posts, one per post format.
 
 ## Install
 
 ```bash
 git clone https://github.com/calebvergene/linkedin-skills.git
 mkdir -p ~/.claude/skills
-cp -R linkedin-skills/linkedin-post ~/.claude/skills/
+cp -R linkedin-skills/linkedin-* ~/.claude/skills/
 ```
 
-For claude.ai, zip the `linkedin-post` folder and upload it under Settings → Capabilities → Skills.
+For claude.ai, zip each skill folder and upload it under Settings → Capabilities → Skills.
+
+## Skills
+
+| Skill | Structure |
+|---|---|
+| `linkedin-lead-magnet` | Bold hook, problem, bullet preview of the resource, social proof, `Comment 'WORD'` CTA, repost bonus |
+| `linkedin-case-study` | "X days ago / Today" contrast, `→` results, how it was done, the takeaway, soft CTA |
+| `linkedin-educational` | Clear promise, 5–7 numbered points (insight + how to apply), CTA |
+| `linkedin-viral-lead-magnet` | Big breakdown teaser, what's inside, recognizable names, triple CTA, bonus |
+
+Inputs: topic (required), plus optional target audience and context. Case study and viral lead magnet also take a result/metric and timeframe. Numbers you don't provide come back as `[placeholders]`, never invented.
+
+Output is plain text ready to paste into LinkedIn. Each skill ends with an example post.
 
 ## Usage
 
-Run `/linkedin-post` in Claude Code, or just ask for a LinkedIn post:
-
 ```
-/linkedin-post case study on how we grew a dev-tools founder from 0 to 18 inbound demos/month in 90 days
+/linkedin-case-study how we grew a dev-tools founder from 0 to 18 inbound demos/month in 90 days
 ```
 
 ```
-Write a lead magnet LinkedIn post for my cold email swipe file. Audience: agency owners.
+/linkedin-lead-magnet my cold email swipe file, audience: agency owners
 ```
 
-### Formats
-
-| Format | Structure |
-|---|---|
-| Lead magnet | Bold hook, problem, bullet preview of the resource, social proof, `Comment 'WORD'` CTA, repost bonus |
-| Case study | "X days ago / Today" contrast, `→` results, how it was done, the takeaway, soft CTA |
-| Educational | Clear promise, 5–7 numbered points (insight + how to apply), CTA |
-| Viral lead magnet | Big breakdown teaser, what's inside, recognizable names, triple CTA, bonus |
-
-Inputs: topic (required), plus optional result/metric, timeframe, target audience, and context. Numbers you don't provide come back as `[placeholders]`, never invented.
-
-Output is plain text ready to paste into LinkedIn. Example posts for each format are in [linkedin-post/references/examples.md](linkedin-post/references/examples.md).
+Or just describe the post you want and the matching skill will trigger.
