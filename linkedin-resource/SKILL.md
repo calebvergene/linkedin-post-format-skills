@@ -14,12 +14,13 @@ Write a post that gives away the author's whole roadmap for free, then offers th
 | Topic | Required | If it's missing, ask. |
 | Result | Optional | The author's own outcome, ideally with recognizable names: e.g. "interviews at Netflix, Google, TikTok". |
 | Timeframe | Optional | e.g. "60 days". |
-| Target audience | Optional | Sets the vocabulary, the pain points and which examples to use. |
+| Target audience | Required | Who the post is for, e.g. "high school juniors applying to US colleges". If it's missing, ask. Don't guess. It sets the CTA qualifier ("If you're…"), the vocabulary and which examples to use. |
 | Resource | Required | What the author will send: e.g. "10-page Google Doc". If it's missing, ask or use `[RESOURCE]`. |
 | Context from the author | Optional | The steps they actually followed, numbers, tools, stories, tone preferences. This is the most valuable input; the roadmap comes from here, not from generic advice. |
 
 - **Use the author's context as written and never contradict it.** If they say it took 90 days, don't write 60.
-- **Never invent proof.** Don't make up metrics, client names, testimonials, follower counts or "used by 500+" claims. If the post needs a number the user didn't give, write a bracketed placeholder such as `[X]` or `[# of people who've used it]` and list the placeholders after the post.
+- **Numbers can be filled in, names can't.** If the author didn't give a number (practice tests, drafts, years, problems solved, attempts), use a realistic one so the post reads complete, and list the numbers you chose in the note after the post so the author can swap in their own.
+- **Anything you'd tag or name stays a placeholder** unless the author gave it: schools, companies, employers, people, programs. Use `[COLLEGE]`, `[COMPANY]`, `[COMPANY 1], [COMPANY 2], and [COMPANY 3]` and so on. Never invent client names or testimonials. Public tools and resources the audience already knows (Neetcode 150, Bluebook, the Common App) are fine to name. The placeholder rule is for names that are part of the author's own story.
 - **There has to be a real resource.** If the user hasn't said what will be sent, ask, or write `[RESOURCE]` and point it out. A comment CTA with nothing behind it costs the author trust.
 - Don't stop to ask about optional fields. Draft with what you have and note what would make the post stronger.
 
@@ -42,7 +43,7 @@ Modeled on a post by the skill's author that performed very well (the example be
 
 Advice:
 - The post has to work on its own. Someone who never comments should still be able to follow the roadmap. The guide adds depth, templates and examples.
-- The names in the hook must be the author's real result. Use exactly the companies and outcomes the author gave.
+- The names in the hook must be the author's real result. Use exactly the companies and outcomes the author gave, or placeholders.
 - Keep the tone humble and practical ("straightforward", "not complicated") rather than boastful. The result already does the bragging.
 - Don't use `→` bullets just to use them. Short lines, numbered lists and the bold headers are enough structure.
 
@@ -78,7 +79,7 @@ Keep sentences to about 1–2 lines on mobile. Put a blank line between most lin
 Use a few emoji at most, and only if the author's voice uses them. Don't put an emoji at the start of every line.
 
 **4. Specifics everywhere.**
-Write exact numbers, timeframes and results ("37%", "in 21 days", "from 3 to 41 demos/month"), not "a lot", "quickly" or "significant growth". Specific details are what make a post believable. (They still have to come from the author; see Inputs.)
+Write exact numbers, timeframes and results ("37%", "in 21 days", "from 3 to 41 demos/month"), not "a lot", "quickly" or "significant growth". Specific details are what make a post believable. (See Inputs for which ones you can fill in.)
 
 **5. Social proof or credibility markers.**
 Examples: who it was used by, results it produced, the author's relevant experience ("After running ads for 40+ SaaS brands…"), or well-known names the work analyzes. Only use proof the author supplied, or placeholders.
@@ -105,7 +106,7 @@ A reader who only sees the first two lines plus anything formatted with `→`, `
 ## Quality check before returning
 
 - Would lines 1–2 make the target reader click "see more"?
-- Is every number either from the author or a visible `[placeholder]`?
+- Is every school, company or person either from the author or a `[placeholder]`, and are the numbers you filled in listed in the note?
 - Can someone get the main point by skimming only the hook, the section headers and the `→`, `-` or numbered lines?
 - Does it end with one CTA aimed at the audience ("drop your email" or a comment keyword) for the full guide?
 - If there's a comment keyword, does it match the resource, and is it one word in all caps?
