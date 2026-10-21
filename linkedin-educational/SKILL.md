@@ -12,11 +12,12 @@ Write a post that builds authority with insights people can act on.
 | Input | | Notes |
 |---|---|---|
 | Topic | Required | If it's missing, ask. |
-| Target audience | Optional | Sets the vocabulary, the pain points and which examples to use. |
+| Target audience | Required | Who the post is for, e.g. "first-time engineering managers". If it's missing, ask. Don't guess. It sets the vocabulary, the pain points and which examples to use. |
 | Context from the author | Optional | Stories, facts, numbers, tone preferences. This is the most valuable input. |
 
 - **Use the author's context as written and never contradict it.** If they say it took 90 days, don't write 60.
-- **Never invent proof.** Don't make up metrics, client names, testimonials, follower counts or "used by 500+" claims. If the post needs a number the user didn't give, write a bracketed placeholder such as `[X]` or `[# of people who've used it]` and list the placeholders after the post.
+- **Numbers can be filled in, names can't.** If the author didn't give a number (results, timeframes, counts, steps), use a realistic one so the post reads complete, and list the numbers you chose in the note after the post so the author can swap in their own.
+- **Anything you'd tag or name stays a placeholder** unless the author gave it: clients, companies, employers, schools, people. Use `[CLIENT]`, `[COMPANY]` and so on. Never invent testimonials. Public tools and resources the audience already knows are fine to name. The placeholder rule is for names that are part of the author's own story.
 - Don't stop to ask about optional fields. Draft with what you have and note what would make the post stronger.
 
 ## Structure
@@ -64,10 +65,10 @@ Keep sentences to about 1–2 lines on mobile. Put a blank line between most lin
 Use a few emoji at most, and only if the author's voice uses them. Don't put an emoji at the start of every line.
 
 **4. Specifics everywhere.**
-Write exact numbers, timeframes and results ("37%", "in 21 days", "from 3 to 41 demos/month"), not "a lot", "quickly" or "significant growth". Specific details are what make a post believable. (They still have to come from the author; see Inputs.)
+Write exact numbers, timeframes and results ("37%", "in 21 days", "from 3 to 41 demos/month"), not "a lot", "quickly" or "significant growth". Specific details are what make a post believable. (See Inputs for which ones you can fill in.)
 
 **5. Social proof or credibility markers.**
-Examples: who it was used by, results it produced, the author's relevant experience ("After running ads for 40+ SaaS brands…"), or well-known names the work analyzes. Only use proof the author supplied, or placeholders.
+Examples: who it was used by, results it produced, the author's relevant experience ("After running ads for 40+ SaaS brands…"), or well-known names the work analyzes. Numbers can be filled in, but names of clients, companies or people come from the author or stay placeholders.
 
 **6. A clear comment CTA: "Comment '[WORD]' and I'll send it to you."**
 - Choose one short, all-caps keyword that matches the resource: GUIDE, TEMPLATE, PLAYBOOK, SWIPE, BREAKDOWN, CHECKLIST.
@@ -91,7 +92,7 @@ A reader who only sees the first two lines plus anything formatted with `→`, `
 ## Quality check before returning
 
 - Would lines 1–2 make the target reader click "see more"?
-- Is every number either from the author or a visible `[placeholder]`?
+- Is every client, company or person either from the author or a `[placeholder]`, and are the numbers you filled in listed in the note?
 - Can someone get the main point by skimming only the hook, the section headers and the `→`, `-` or numbered lines?
 - Is the CTA something the author can deliver (a keyword only if a resource exists, otherwise a question or save prompt)?
 - If there's a comment keyword, does it match the resource, and is it one word in all caps?
@@ -101,7 +102,7 @@ A reader who only sees the first two lines plus anything formatted with `→`, `
 
 ## Example
 
-Illustrative numbers. In a real post every number comes from the author or stays a `[placeholder]`.
+Illustrative numbers and names. In a real post, filled-in numbers get listed for the author, and names come from the author or stay placeholders.
 
 Inputs: topic = running better 1:1s; audience = first-time managers.
 

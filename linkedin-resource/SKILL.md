@@ -82,7 +82,7 @@ Use a few emoji at most, and only if the author's voice uses them. Don't put an 
 Write exact numbers, timeframes and results ("37%", "in 21 days", "from 3 to 41 demos/month"), not "a lot", "quickly" or "significant growth". Specific details are what make a post believable. (See Inputs for which ones you can fill in.)
 
 **5. Social proof or credibility markers.**
-Examples: who it was used by, results it produced, the author's relevant experience ("After running ads for 40+ SaaS brands…"), or well-known names the work analyzes. Only use proof the author supplied, or placeholders.
+Examples: who it was used by, results it produced, the author's relevant experience ("After running ads for 40+ SaaS brands…"), or well-known names the work analyzes. Numbers can be filled in, but names of clients, companies or people come from the author or stay placeholders.
 
 **6. A clear comment CTA: "Comment '[WORD]' and I'll send it to you."**
 - Choose one short, all-caps keyword that matches the resource: GUIDE, TEMPLATE, PLAYBOOK, SWIPE, BREAKDOWN, CHECKLIST.
