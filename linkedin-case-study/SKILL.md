@@ -46,18 +46,23 @@ LinkedIn hides everything after roughly the first 2–3 lines (about 200 charact
 - Time or effort invested: "I spent 11 hours breaking down 40 of Apple's launch emails."
 - A curiosity gap with a number: "7 hiring mistakes that cost me $200k."
 - A direct callout to the audience: "Founders: stop writing your own LinkedIn posts like blog intros."
+- Personal credibility with recognizable names: "I was able to land big tech interviews at Netflix, Google, and TikTok by following a straightforward roadmap." This works because it's true and it's the author's own result, not a claim about anyone else.
 
 Avoid warm-ups such as "I'm excited to share", "In today's world" and "Let's talk about…", and avoid starting with a question the reader can answer "no" to.
 
-The second line should either add tension ("Most people get this wrong.") or promise a payoff ("Here's exactly how:").
+The second line should either add tension ("Most people get this wrong."), promise a payoff ("Here's exactly how:"), or reduce the topic to a few parts ("It comes down to two things:" followed by a short numbered list).
 
 **2. Short sentences, generous line breaks.**
-Keep sentences to about 1–2 lines on mobile. Put a blank line between most lines. Paragraphs should almost never be longer than 2 sentences. White space is what makes a post skimmable on LinkedIn.
+Keep sentences to about 1–2 lines on mobile. Put a blank line between most lines. Most paragraphs should be 1–2 sentences. A 3–5 sentence paragraph is fine once or twice, where the author is talking personally (answering an objection, "If I were to go back…"). Mixing very short lines with the odd longer paragraph reads more human than one-liners all the way down. White space is what makes a post skimmable on LinkedIn.
 
 **3. Visual hierarchy using plain-text symbols.**
 - `→` for benefits, results and "this leads to that" lines
 - `-` for plain lists
 - `1.` `2.` `3.` for steps or ranked points
+
+**Section headers in Unicode bold.** When a post has 2–3 distinct sections, give each one a header line in Unicode sans-serif bold, e.g. `𝗚𝗲𝘁𝘁𝗶𝗻𝗴 𝘁𝗵𝗲 𝗶𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄: 𝗬𝗼𝘂𝗿 𝗿𝗲𝘀𝘂𝗺𝗲`, with two blank lines before it. These are ordinary Unicode characters (Mathematical Sans-Serif Bold: A–Z start at U+1D5D4, a–z at U+1D5EE, 0–9 at U+1D7EC), not markdown, so LinkedIn displays them as bold. Only use them for headers, never for whole sentences: screen readers and LinkedIn search don't read them as normal text.
+
+`→` and `-` are optional. A post organized by bold section headers and numbered lists doesn't need arrows.
 
 Use a few emoji at most, and only if the author's voice uses them. Don't put an emoji at the start of every line.
 
@@ -71,6 +76,7 @@ Examples: who it was used by, results it produced, the author's relevant experie
 - Choose one short, all-caps keyword that matches the resource: GUIDE, TEMPLATE, PLAYBOOK, SWIPE, BREAKDOWN, CHECKLIST.
 - Keep it to one word that's easy to type on a phone and not something people would comment anyway (avoid YES or WOW).
 - Comments push the post's distribution, and the keyword shows the author who wants the resource.
+- An acceptable alternative: "drop your email in the comments and I'll share the doc with you!" This works well for a Google Doc or Notion guide, and the author can share it straight to those emails.
 
 **7. Scannable.**
 A reader who only sees the first two lines plus anything formatted with `→`, `-` or numbers should still get the main point.
@@ -81,7 +87,7 @@ A reader who only sees the first two lines plus anything formatted with `→`, `
 
 ## Output
 
-- **Output only the post text, ready to paste into LinkedIn.** Plain text, no markdown (no `**bold**`, no headings), and no preamble like "Here's your post:". Unicode such as `→` is fine.
+- **Output only the post text, ready to paste into LinkedIn.** Plain text, no markdown (no `**bold**`, no `#` headings), and no preamble like "Here's your post:". Unicode such as `→` and Unicode-bold section headers is fine.
 - After the post, separated by a line, add a short note **only if needed**: placeholders to fill in, inputs that would make it stronger, or an assumption you made.
 - If the user asks for options, give 2–3 alternative hooks (just lines 1–2) rather than whole new posts. The hook is what gets tested.
 
@@ -89,7 +95,7 @@ A reader who only sees the first two lines plus anything formatted with `→`, `
 
 - Would lines 1–2 make the target reader click "see more"?
 - Is every number either from the author or a visible `[placeholder]`?
-- Can someone get the main point by skimming only the `→`, `-` and numbered lines?
+- Can someone get the main point by skimming only the hook, the section headers and the `→`, `-` or numbered lines?
 - Does it end with a soft CTA ("Want similar results? Let's talk."), plus a comment keyword only if there's a real resource?
 - If there's a comment keyword, does it match the resource, and is it one word in all caps?
 - Is it under 3,000 characters, ideally 900–1,500 characters?
