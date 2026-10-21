@@ -1,20 +1,11 @@
 ---
 name: linkedin-viral-lead-magnet
-description: Write a viral LinkedIn lead magnet post for a big resource, either by teasing a deep breakdown of well-known people or brands (what's inside, triple CTA, bonus) or by giving away the author's own roadmap behind a result with big names (e.g. landing interviews at Netflix and Google) and offering the full guide in the comments. Use when the user wants a high-reach LinkedIn post to give away a big teardown, analysis, playbook, or guide.
+description: Write a viral LinkedIn lead magnet post that teases a deep breakdown (8–16 hours of analysis) of well-known people or brands, lists what's inside, and ends with a triple CTA (like, comment keyword, connect) plus a bonus. Use when the user wants a high-reach LinkedIn post to give away a big teardown or analysis of other people's or brands' work.
 ---
 
 # LinkedIn Viral Lead Magnet Post
 
-Write a post that gets as much reach as possible by offering a big resource (8–16 hours of work, or a multi-page guide) and borrowing attention from well-known names.
-
-There are two versions. Pick based on the author's context:
-
-| Version | Use when | What the post does |
-|---|---|---|
-| **A. Teaser** | The resource is an analysis of other people's or brands' work | Lists what's inside and holds the substance back for the resource |
-| **B. Value-first roadmap** | The resource is the author's own method behind a result with big names attached (jobs, clients, launches) | Gives away the whole roadmap in the post, and the resource is the full-detail version |
-
-If you're unsure, use B whenever the author has a personal result with recognizable names. Teaching the method openly earns more trust, saves and shares than a teaser.
+Write a post that gets as much reach as possible by teasing a comprehensive analysis (8–16 hours of work) of well-known names.
 
 ## Inputs
 
@@ -33,8 +24,6 @@ If you're unsure, use B whenever the author has a personal result with recogniza
 
 ## Structure
 
-### A. Teaser
-
 1. **Hook**: an impressive case study or analysis, e.g. "I analyzed 100 of Hormozi's top posts. 9 patterns showed up again and again."
 2. **Tease the effort**: "I spent [8+] hours breaking down…" The work invested is what makes it valuable.
 3. **What's inside**: 6–10 `→` bullets listing frameworks, strategies and examples ("→ The 3-part hook formula behind his 5 most-shared posts").
@@ -50,29 +39,6 @@ Advice:
 - Only name-drop people or brands whose public work is actually analyzed. Don't imply they endorse the author or worked with them.
 - If the analysis doesn't exist yet, write the post with placeholders and tell the author what they need to produce before posting.
 - If the user gave a result or timeframe, use them as credibility, e.g. "These same frameworks got me 100k views in 60 days."
-
-### B. Value-first roadmap
-
-Modeled on the author's own post that performed very well (the second example below).
-
-1. **Credibility hook**: the author's result plus recognizable names, then how simple the path was: "I was able to land big tech interviews at Netflix, Google, and TikTok by following a straightforward roadmap."
-2. **Break it into 2–3 parts**: "It comes down to two things:" then a numbered list, one line per part, each tied to an outcome ("A strong resume to get the interview").
-3. **One section per part**, each opened by a Unicode-bold header with two blank lines before it ("𝗣𝗮𝘀𝘀𝗶𝗻𝗴 𝘁𝗵𝗲 𝗶𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄: 𝗟𝗲𝗲𝘁𝗰𝗼𝗱𝗲"). Inside each section:
-   - **Concrete counts and rules**: "Get 3 projects", "Around 120 is enough", "stuck for more than 30 minutes".
-   - **Named resources the audience already knows** (Neetcode 150, a specific course or tool) instead of generic advice.
-   - **One myth-bust**: "You don't need to grind 500 problems." Name the scary number people assume, then the smaller real one.
-   - **The step that makes you stand out**: "Your third project is where you stand out." Short punchy follow-ups such as "Something people actually use. Something that makes money."
-4. **An objection in quotes, then the answer**: "“But nobody will hire me yet.”" Say the doubt the reader is thinking, then answer it honestly, including the unglamorous part ("It's not ideal, but…").
-5. **A hindsight line**: "If I were to go back, this is the best way to start." This is where the author's voice comes through.
-6. **"That's all there is to it."** then **a recap line made of the numbers**: "3 projects. 1-2 experiences. ~120 Leetcode problems." That line is what people screenshot and remember.
-7. **Encouraging close**: "It's not complicated, but it does take consistency, and there's no better time to start than now."
-8. **One CTA aimed at the audience**: "If you're [audience] and want the full [10-page guide] I followed, drop your email in the comments and I'll share the doc with you!" A single CTA is fine here, and you don't need the triple CTA or a bonus. The audience qualifier ("If you're recruiting for Software Engineering") makes the right readers feel it's for them.
-
-Advice for B:
-- The post has to work on its own. Someone who never comments should still be able to follow the roadmap. The guide adds depth, templates and examples.
-- The names in the hook must be the author's real result. Use exactly the companies and outcomes the author gave.
-- Keep the tone humble and practical ("straightforward", "not complicated") rather than boastful. The result already does the bragging.
-- Don't use `→` bullets just to use them. Short lines, numbered lists and the bold headers are enough structure.
 
 **Length:** 1,300–2,200 characters (LinkedIn's limit is 3,000).
 
@@ -135,15 +101,13 @@ A reader who only sees the first two lines plus anything formatted with `→`, `
 - Would lines 1–2 make the target reader click "see more"?
 - Is every number either from the author or a visible `[placeholder]`?
 - Can someone get the main point by skimming only the hook, the section headers and the `→`, `-` or numbered lines?
-- Version A: does it end with the triple CTA (like, comment keyword, connect), plus the bonus only if one exists? Version B: does it end with one audience-targeted CTA (comment keyword or "drop your email") for the full guide?
+- Does it end with the triple CTA (like, comment keyword, connect), plus the bonus only if one exists?
 - If there's a comment keyword, does it match the resource, and is it one word in all caps?
 - Is it under 3,000 characters, ideally 1,300–2,200 characters?
 - Does it contain no markdown, no throat-clearing opener and no generic filler ("in today's fast-paced world", "game-changer")?
 - Is it useful to a reader who never comments?
 
-## Examples
-
-### A. Teaser
+## Example
 
 Illustrative numbers. In a real post every number comes from the author or stays a `[placeholder]`.
 
@@ -174,57 +138,4 @@ Want it?
 3. Connect with me (so I can DM you)
 
 I'll also send you a 30-min walkthrough video.
-```
-
-### B. Value-first roadmap
-
-A real post by the skill's author that performed very well (1,719 characters). Match its structure and rhythm, not its topic.
-
-Inputs: topic = how to land SWE interviews at big tech; result = interviews at Netflix, Google, TikTok; audience = students recruiting for software engineering; context = has a 10-page guide in a Google Doc.
-
-```
-I was able to land big tech interviews at Netflix, Google, and TikTok by following a straightforward roadmap.
-
-It comes down to two things:
-1. A strong resume to get the interview
-2. Leetcode / interview skills to pass the interview
-
-
-𝗚𝗲𝘁𝘁𝗶𝗻𝗴 𝘁𝗵𝗲 𝗶𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄: 𝗬𝗼𝘂𝗿 𝗿𝗲𝘀𝘂𝗺𝗲
-
-Get 3 projects onto your resume and GitHub.
-
-For the first two, pick an online course that builds something you actually find cool, using a stack you want to learn (Python, React, whatever gets you excited).
-
-Follow along, build it, ship it.
-
-Your third project is where you stand out.
-
-Build something at scale. Something people actually use. Something that makes money. That one project on its own can get your resume through screening.
-
-Then add 1-2 SWE experiences on top.
-
-“But nobody will hire me yet.”
-
-Start cold emailing. Reach out to startups and offer to work for free. Ask about unpaid research at your university. It’s not ideal, but these are resume lines recruiters genuinely respect. If I were to go back, this is the best way to start.
-
-
-𝗣𝗮𝘀𝘀𝗶𝗻𝗴 𝘁𝗵𝗲 𝗶𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄: 𝗟𝗲𝗲𝘁𝗰𝗼𝗱𝗲
-
-You don’t need to grind 500 problems.
-
-Around 120 is enough, covering everything up through graphs.
-
-Start with the Neetcode 150. If a problem has you stuck for more than 30 minutes, watch the video walkthrough. Focus on the pattern, not on memorizing the solution.
-
-Log each problem you do while summarizing the solution.
-
-That’s all there is to it.
-
-3 projects. 1-2 experiences. ~120 Leetcode problems.
-
-It’s not complicated, but it does take consistency, and there’s no better time to start than now.
-
-
-If you’re recruiting for Software Engineering and want the full 10-page guide I followed, drop your email in the comments and I’ll share the doc with you!
 ```

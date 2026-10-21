@@ -19,9 +19,10 @@ For claude.ai, zip each skill folder and upload it under Settings → Capabiliti
 | `linkedin-lead-magnet` | Bold hook, problem, bullet preview of the resource, social proof, `Comment 'WORD'` CTA, repost bonus |
 | `linkedin-case-study` | "X days ago / Today" contrast, `→` results, how it was done, the takeaway, soft CTA |
 | `linkedin-educational` | Clear promise, 5–7 numbered points (insight + how to apply), CTA |
-| `linkedin-viral-lead-magnet` | Either a big breakdown teaser (what's inside, recognizable names, triple CTA, bonus) or a value-first roadmap (credibility hook with big names, 2–3 bold-header sections, recap line, "drop your email" for the full guide) |
+| `linkedin-viral-lead-magnet` | Big breakdown teaser, what's inside, recognizable names, triple CTA, bonus |
+| `linkedin-resource` | Credibility hook with big names, the whole roadmap in 2–3 bold-header sections, objection, recap line, "drop your email" for the full guide |
 
-Inputs: topic (required), plus optional target audience and context. Case study and viral lead magnet also take a result/metric and timeframe. Numbers you don't provide come back as `[placeholders]`, never invented.
+Inputs: topic (required), plus optional target audience and context. Case study, viral lead magnet and resource also take a result and timeframe. Resource also needs the guide you'll send. Numbers you don't provide come back as `[placeholders]`, never invented.
 
 Output is plain text ready to paste into LinkedIn. Each skill ends with an example post.
 
