@@ -44,21 +44,21 @@ LinkedIn hides everything after roughly the first 2–3 lines (about 200 charact
 - Time or effort invested: "I spent 11 hours breaking down 40 of Apple's launch emails."
 - A curiosity gap with a number: "7 hiring mistakes that cost me $200k."
 - A direct callout to the audience: "Founders: stop writing your own LinkedIn posts like blog intros."
-- Personal credibility with recognizable names: "I was able to land big tech interviews at Netflix, Google, and TikTok by following a straightforward roadmap." This works because it's true and it's the author's own result, not a claim about anyone else.
+- Personal credibility with recognizable names: the author's own result at well-known companies, schools or clients, plus a hint that the path was simpler than people think. This only works when it's true.
 
 Avoid warm-ups such as "I'm excited to share", "In today's world" and "Let's talk about…", and avoid starting with a question the reader can answer "no" to.
 
-The second line should either add tension ("Most people get this wrong."), promise a payoff ("Here's exactly how:"), or reduce the topic to a few parts ("It comes down to two things:" followed by a short numbered list).
+The second line should either add tension ("Most people get this wrong."), promise a payoff ("Here's exactly how:"), or reduce the topic to a few parts (one short line, then a numbered list).
 
 **2. Short sentences, generous line breaks.**
-Keep sentences to about 1–2 lines on mobile. Put a blank line between most lines. Most paragraphs should be 1–2 sentences. A 3–5 sentence paragraph is fine once or twice, where the author is talking personally (answering an objection, "If I were to go back…"). Mixing very short lines with the odd longer paragraph reads more human than one-liners all the way down. White space is what makes a post skimmable on LinkedIn.
+Keep sentences to about 1–2 lines on mobile. Put a blank line between most lines. Most paragraphs should be 1–2 sentences. A 3–5 sentence paragraph is fine once or twice, where the author is talking personally (answering an objection, or a personal aside). Mixing very short lines with the odd longer paragraph reads more human than one-liners all the way down. White space is what makes a post skimmable on LinkedIn.
 
 **3. Visual hierarchy using plain-text symbols.**
 - `→` for benefits, results and "this leads to that" lines
 - `-` for plain lists
 - `1.` `2.` `3.` for steps or ranked points
 
-**Section headers in Unicode bold.** When a post has 2–3 distinct sections, give each one a header line in Unicode sans-serif bold, e.g. `𝗚𝗲𝘁𝘁𝗶𝗻𝗴 𝘁𝗵𝗲 𝗶𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄: 𝗬𝗼𝘂𝗿 𝗿𝗲𝘀𝘂𝗺𝗲`, with two blank lines before it. These are ordinary Unicode characters (Mathematical Sans-Serif Bold: A–Z start at U+1D5D4, a–z at U+1D5EE, 0–9 at U+1D7EC), not markdown, so LinkedIn displays them as bold. Only use them for headers, never for whole sentences: screen readers and LinkedIn search don't read them as normal text.
+**Section headers in Unicode bold.** When a post has 2–3 distinct sections, give each one a header line in Unicode sans-serif bold, e.g. `𝗦𝘁𝗲𝗽 𝟭: 𝗧𝗵𝗲 𝗳𝗼𝘂𝗻𝗱𝗮𝘁𝗶𝗼𝗻`, with two blank lines before it. These are ordinary Unicode characters (Mathematical Sans-Serif Bold: A–Z start at U+1D5D4, a–z at U+1D5EE, 0–9 at U+1D7EC), not markdown, so LinkedIn displays them as bold. Only use them for headers, never for whole sentences: screen readers and LinkedIn search don't read them as normal text.
 
 `→` and `-` are optional. A post organized by bold section headers and numbered lists doesn't need arrows.
 
@@ -74,7 +74,7 @@ Examples: who it was used by, results it produced, the author's relevant experie
 - Choose one short, all-caps keyword that matches the resource: GUIDE, TEMPLATE, PLAYBOOK, SWIPE, BREAKDOWN, CHECKLIST.
 - Keep it to one word that's easy to type on a phone and not something people would comment anyway (avoid YES or WOW).
 - Comments push the post's distribution, and the keyword shows the author who wants the resource.
-- An acceptable alternative: "drop your email in the comments and I'll share the doc with you!" This works well for a Google Doc or Notion guide, and the author can share it straight to those emails.
+- An acceptable alternative: ask people to drop their email in the comments. This works well for a Google Doc or Notion guide, and the author can share it straight to those emails.
 
 **7. Scannable.**
 A reader who only sees the first two lines plus anything formatted with `→`, `-` or numbers should still get the main point.
