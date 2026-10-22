@@ -1,5 +1,5 @@
 ---
-name: linkedin-resource
+name: linkedin-give-resource
 description: Write a LinkedIn resource post that gives away the author's whole roadmap or method behind a real result (e.g. landing jobs or offers at well-known companies), split into 2–3 Unicode-bold sections, and offers the full guide in the comments (drop your email to get it). Use when the user wants to share a guide, roadmap, doc, or playbook they wrote from their own experience on LinkedIn.
 ---
 
