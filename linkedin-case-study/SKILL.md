@@ -68,6 +68,8 @@ The second line should add tension, promise a payoff, or reduce the topic to a f
 **2. Short sentences, generous line breaks.**
 Keep sentences to about 1–2 lines on mobile. Put a blank line between most lines. Most paragraphs should be 1–2 sentences. A 3–5 sentence paragraph is fine once or twice, where the author is talking personally (answering an objection, or a personal aside). Mixing very short lines with the odd longer paragraph reads more human than one-liners all the way down. White space is what makes a post skimmable on LinkedIn.
 
+Leave **two blank lines** between the opening (the hook plus the line or two that set up the post, roughly what shows above "…see more") and the body, so the intro reads as its own block.
+
 **3. Visual hierarchy using plain-text symbols.**
 - `→` for benefits, results and "this leads to that" lines
 - `-` for plain lists
@@ -113,6 +115,7 @@ If something should be avoided, phrase it as the better alternative ("Lead each 
 ## Quality check before returning
 
 - Would lines 1–2 make the target reader click "see more"?
+- Are there two blank lines between the opening and the body?
 - Is every client, company or person either from the author or a `[placeholder]`, and are the numbers you filled in listed in the note?
 - Can someone get the main point by skimming only the hook, the section headers and the `→`, `-` or numbered lines?
 - Does it end with a soft CTA toward a conversation, plus a comment keyword only if there's a real resource?
