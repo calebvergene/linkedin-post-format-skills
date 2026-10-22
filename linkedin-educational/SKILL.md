@@ -63,7 +63,7 @@ Avoid warm-ups such as "I'm excited to share", "In today's world" and "Let's tal
 The second line should add tension, promise a payoff, or reduce the topic to a few parts.
 
 **2. Short sentences, generous line breaks.**
-Keep sentences to about 1–2 lines on mobile. Put a blank line between most lines. Most paragraphs should be 1–2 sentences. A 3–5 sentence paragraph is fine once or twice, where the author is talking personally (answering an objection, or a personal aside). Mixing very short lines with the odd longer paragraph reads more human than one-liners all the way down. White space is what makes a post skimmable on LinkedIn.
+Keep sentences to about 1–2 lines on mobile. Split ideas into separate short paragraphs instead of clumping them: a numbered point's title goes on its own line with a blank line before its explanation, and a formula, an example or a takeaway each get their own paragraph. Put a blank line between most lines. Most paragraphs should be 1–2 sentences. A 3–5 sentence paragraph is fine once or twice, where the author is talking personally (answering an objection, or a personal aside). Mixing very short lines with the odd longer paragraph reads more human than one-liners all the way down. White space is what makes a post skimmable on LinkedIn.
 
 Leave **two blank lines** between the opening (the hook plus the line or two that set up the post, roughly what shows above "…see more") and the body, so the intro reads as its own block.
 
@@ -113,6 +113,7 @@ If something should be avoided, phrase it as the better alternative ("Lead each 
 
 - Would lines 1–2 make the target reader click "see more"?
 - Are there two blank lines between the opening and the body?
+- Is anything clumped? Titles on their own line, and no paragraph packing in several ideas.
 - Is every client, company or person either from the author or a `[placeholder]`, and are the numbers you filled in listed in the note?
 - Can someone get the main point by skimming only the hook, the section headers and the `→`, `-` or numbered lines?
 - Is the CTA something the author can deliver (a keyword only if a resource exists, otherwise a question or save prompt)?
