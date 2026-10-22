@@ -26,20 +26,25 @@ Write a post that gives away the author's whole roadmap for free, then offers th
 
 ## Structure
 
-These are moves, not a script. Use them in this order, but write every line fresh for the topic, the audience and the author's voice. The phrasings below only show the idea. Don't reuse them word for word, or every post will sound the same.
+This format has a few core pieces and a set of optional ones. It is not a template. Don't fill in the same slots in the same order every time, or every post will read like the last one with the words swapped.
 
-1. **Credibility hook**: the author's result (with recognizable names if they have them) plus a sense that the path was simpler or more repeatable than people expect. Some directions: lead with the result and promise the exact plan; lead with what people overcomplicate and say the author did less; lead with the result and the thing they *didn't* need.
-2. **Break it into 2–3 parts**: one short line introducing them, then a numbered list. One line per part, each tied to the outcome it gets you.
-3. **One section per part**, each opened by a Unicode-bold header with two blank lines before it. Phrase headers for the topic, e.g. a stage name and what it covers, or a short instruction. Spread these across the sections (not every section needs all of them):
-   - **Concrete counts and rules**: how many, how long, when to stop or move on.
-   - **Named resources the audience already knows** (a well-known course, tool, book or practice set) instead of generic advice.
-   - **One myth-bust**: name the big number or requirement people assume, then the smaller real one.
-   - **The step that makes the reader stand out** from everyone else doing the basics, with a few short punchy fragments describing it.
-4. **An objection in quotes, then the answer**: the doubt the reader is thinking right now, answered honestly, including the unglamorous part.
-5. **A personal line**: what the author would do differently or sooner, or what actually mattered most. This is where their voice comes through.
-6. **A recap line made of the numbers or parts**: short fragments the reader can screenshot. It can be introduced by a short line or stand alone.
-7. **Encouraging close**: one or two lines about effort, consistency or starting now, in new words each time.
-8. **One CTA aimed at the audience**: an audience qualifier ("If you're…"), the full resource, and drop your email (or a comment keyword). Match the wording to the resource: a doc, a Notion page, a PDF. One CTA only, with no triple CTA or bonus.
+**Core (every post):**
+1. **Hook**: the author's real result, with recognizable names if they have them, in the first 1–2 lines.
+2. **The method, given away**: 2–3 parts, each opened by a Unicode-bold header with two blank lines before it. The parts can be stages, rules, mistakes, decisions, whatever fits the topic. Introduce them with a short numbered list, a single line, or nothing at all.
+3. **Specifics inside the parts**: real counts, rules and well-known named resources (a course, tool, book or practice set). This is what makes the post useful instead of generic.
+4. **One CTA aimed at the audience**: who it's for, the full resource, and how to get it (drop your email or a comment keyword). Word it to match the resource: doc, Notion page, PDF. No triple CTA or bonus.
+
+**Optional (pick 1–3 that fit the topic, and vary which ones you use):**
+- A myth-bust: the big number or requirement people assume vs. the real one
+- The reader's objection in quotes, answered honestly
+- A personal line: what the author would do differently, or what surprised them
+- The one step that sets the reader apart from everyone doing the basics
+- A short moment or mistake from the author's own journey
+- What to skip: things people waste time on
+- A recap line of short fragments
+- A short encouraging close
+
+**Keep it varied.** Change the number of parts, whether there's an intro list, where the optional pieces go, how long the paragraphs run and how the post ends. Let the topic decide the shape.
 
 Lines from the post this format is based on are recognizable, so never use them: "by following a straightforward roadmap", "It comes down to two things", "is where you stand out", "If I were to go back", "That's all there is to it", "It's not complicated, but it does take consistency", "there's no better time to start than now", "I'll share the doc with you".
 
@@ -116,42 +121,4 @@ A reader who only sees the first two lines plus anything formatted with `→`, `
 - Is it under 3,000 characters, ideally 1,400–2,200 characters?
 - Does it contain no markdown, no throat-clearing opener and no generic filler ("in today's fast-paced world", "game-changer")?
 - Is it useful to a reader who never comments?
-
-## Outline
-
-The shape of a finished post. Fill every bracket with fresh wording; don't copy any earlier post.
-
-```
-[Hook: the author's result, with names if they have them + it was simpler than people think]
-
-[Short line introducing the parts]
-1. [Part 1, tied to its outcome]
-2. [Part 2, tied to its outcome]
-
-
-[𝗛𝗲𝗮𝗱𝗲𝗿 𝗳𝗼𝗿 𝗽𝗮𝗿𝘁 𝟭]
-
-[Concrete step with a count or rule]
-
-[Myth-bust: the big number people assume → the real, smaller one]
-
-[Named resource + how to use it]
-
-
-[𝗛𝗲𝗮𝗱𝗲𝗿 𝗳𝗼𝗿 𝗽𝗮𝗿𝘁 𝟮]
-
-[Concrete step]
-
-[The step that makes the reader stand out + 2–3 short fragments]
-
-"[The reader's objection]"
-
-[Honest answer, including the unglamorous part. Personal line about what the author would do differently.]
-
-[Recap line: fragments made of the numbers]
-
-[Short encouraging close]
-
-
-[If you're <audience> and want the full <resource>, drop your email in the comments and I'll send it over.]
-```
+- Next to another post from this skill, would it read like the same template with new words? If so, change the shape.
