@@ -21,7 +21,7 @@ For claude.ai, zip each skill folder and upload it under Settings → Capabiliti
 | `linkedin-educational` | Clear promise, 5–7 numbered points (insight + how to apply), CTA |
 | `linkedin-viral-lead-magnet` | Big breakdown teaser, what's inside, recognizable names, triple CTA, bonus |
 | `linkedin-resource` 🔥 | Credibility hook with big names, the whole roadmap in 2–3 bold-header sections, objection, recap line, "drop your email" for the full guide ([example 1](https://lnkd.in/p/gdXKF4s5), [example 2](https://lnkd.in/p/gV7FWtbd), [example 3](https://lnkd.in/p/gsTS-37D), [example 4](https://lnkd.in/p/gGWWCYx6)) |
-| `linkedin-hot-take` | One strong claim, the reasoning as a chain in 1–2 bold-header sections, specifics, comment-keyword CTA for a guide or waitlist (or a question) |
+| `linkedin-hot-take` | One strong claim, the reasoning as a chain in 1–2 bold-header sections, specifics, comment-keyword CTA for a guide or waitlist (or a question) ([example 1](https://lnkd.in/p/gA-SZd8w), [example 2](https://lnkd.in/p/gqS24U6e)) |
 
 Inputs: topic and target audience (required; the skill asks for the audience if it's missing), plus optional context.
 
