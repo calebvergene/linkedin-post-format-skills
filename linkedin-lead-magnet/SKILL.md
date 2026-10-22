@@ -94,6 +94,12 @@ A reader who only sees the first two lines plus anything formatted with `→`, `
 
 **Tone:** conversational and direct, written in the first person. Use "you" more than "I" except in story parts. Cut filler, every line should earn its place. The post must be useful even to someone who never comments.
 
+**Write in the positive.** Say what to do, plainly. Negation-heavy lines read as AI-generated, so avoid:
+- Stacks of "No…" fragments ("No fluff. No fancy design.")
+- "Not X, but Y" or "It's not X. It's Y." contrast lines
+- "Never…" / "Stop doing…" / "Don't…" commands, and "Just" right after a list of negatives
+If something should be avoided, phrase it as the better alternative ("Lead each bullet with the result" rather than "Never start with 'Responsible for'"). A myth-bust or a "what to skip" section is fine, but write it as a plain statement, not a string of negatives.
+
 **Hashtags:** none by default. If the user wants them, add 0–3 relevant ones at the very end.
 
 ## Output
@@ -110,6 +116,7 @@ A reader who only sees the first two lines plus anything formatted with `→`, `
 - Does it end with a comment-keyword CTA, plus a repost bonus only if a bonus exists?
 - If there's a comment keyword, does it match the resource, and is it one word in all caps?
 - Is it under 3,000 characters, ideally 800–1,300 characters?
+- Is it written in the positive, with no stacked "No…" fragments, "not X, but Y" lines or "Never…" commands?
 - Does it contain no markdown, no throat-clearing opener and no generic filler ("in today's fast-paced world", "game-changer")?
 - Is it useful to a reader who never comments?
 - Next to another post from this skill, would it read like the same template with new words? If so, change the shape.
