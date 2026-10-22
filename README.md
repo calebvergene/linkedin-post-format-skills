@@ -16,7 +16,7 @@ For claude.ai, zip each skill folder and upload it under Settings → Capabiliti
 
 | Skill | Structure |
 |---|---|
-| `linkedin-lead-magnet` | Bold hook, problem, bullet preview of the resource, social proof, `Comment 'WORD'` CTA, repost bonus |
+| `linkedin-lead-magnet` | Bold hook, problem, bullet preview of the resource, social proof, `Comment 'WORD'` CTA, repost bonus ([example 1](https://lnkd.in/p/g5vQxqjA)) |
 | `linkedin-case-study` | "X days ago / Today" contrast, `→` results, how it was done, the takeaway, soft CTA |
 | `linkedin-educational` | Clear promise, 5–7 numbered points (insight + how to apply), CTA |
 | `linkedin-viral-lead-magnet` | Big breakdown teaser, what's inside, recognizable names, triple CTA, bonus |
