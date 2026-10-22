@@ -62,6 +62,10 @@ Avoid warm-ups such as "I'm excited to share", "In today's world" and "Let's tal
 
 The second line should add tension, promise a payoff, or reduce the topic to a few parts.
 
+**Keep the opening short enough to show above "see more" on mobile.** Most of the time the opening is 2 short paragraphs: the hook line (about 80 characters max), then one setup line. Keep the two together to about 150 characters. Anything longer gets cut off on a phone, and the setup line is wasted.
+
+**Personal-result hooks name names.** When the hook is the author's own result ("This resume got me…", "I landed…"), include the recognizable companies, schools or clients behind it. They're what stops the scroll. Use `[COMPANY 1], [COMPANY 2]` placeholders if the author didn't give them, rather than switching to a hook without names.
+
 **2. Short sentences, generous line breaks.**
 Keep sentences to about 1–2 lines on mobile. Split ideas into separate short paragraphs instead of clumping them: a numbered point's title goes on its own line with a blank line before its explanation, and a formula, an example or a takeaway each get their own paragraph. Put a blank line between most lines. Most paragraphs should be 1–2 sentences. A 3–5 sentence paragraph is fine once or twice, where the author is talking personally (answering an objection, or a personal aside). Mixing very short lines with the odd longer paragraph reads more human than one-liners all the way down. White space is what makes a post skimmable on LinkedIn.
 
@@ -112,6 +116,7 @@ If something should be avoided, phrase it as the better alternative ("Lead each 
 ## Quality check before returning
 
 - Would lines 1–2 make the target reader click "see more"?
+- Is the opening about 2 short paragraphs and under ~150 characters, with names in a personal-result hook?
 - Are there two blank lines between the opening and the body?
 - Is anything clumped? Titles on their own line, and no paragraph packing in several ideas.
 - Is every client, company or person either from the author or a `[placeholder]`, and are the numbers you filled in listed in the note?
