@@ -1,6 +1,6 @@
 ---
 name: linkedin-lead-magnet
-description: Write a LinkedIn lead magnet post that gives away a free resource (guide, template, checklist, swipe file) in exchange for a comment keyword. Use when the user wants to promote a freebie on LinkedIn, collect leads with a "Comment 'GUIDE'" post, or grow engagement around a resource they made.
+description: Write a LinkedIn lead magnet post that gives away a free resource (guide, template, checklist, swipe file) in exchange for a comment keyword. Use when the user wants to promote a freebie on LinkedIn, collect leads with a comment-keyword post, or grow engagement around a resource they made.
 ---
 
 # LinkedIn Lead Magnet Post
@@ -24,33 +24,44 @@ Write a post that gives away a valuable resource in exchange for a comment. The 
 
 ## Structure
 
-1. **Hook**: a bold claim or striking statement related to the problem the resource solves.
-2. **Problem**: 2–4 short lines describing the pain in the reader's own words. Make them feel recognized.
-3. **Solution preview**: "So I put together [resource]. Inside:" followed by 3–6 `→` or `-` bullets. Each bullet should be concrete and a little tempting ("→ The 3-line cold email that booked 14 calls last month", not "→ Email tips").
-4. **Social proof**: one line, e.g. "Used by 500+ marketers", "Built from 3 years of running this at [Company]".
-5. **CTA**: "Comment 'GUIDE' and I'll send it to you."
-6. **Bonus**: "Repost this and I'll also send you [extra bonus]." Only include this if the author actually has a bonus; otherwise leave it out or use a placeholder.
+This format has a few core pieces and a set of optional ones. It is not a template. Don't fill in the same slots in the same order every time, or every post will read like the last one with the words swapped. Write every line fresh for the topic, the audience and the author's voice.
+
+**Core (every post):**
+1. **Hook**: a bold claim or striking statement about the problem the resource solves.
+2. **The problem**: a few short lines naming the pain in the reader's own words, so they feel recognized.
+3. **A preview of the resource**: 3–6 concrete bullets (`→` or `-`). Each one promises a specific result or reveals a specific piece of what's inside. Vague bullets like "email tips" don't sell anything.
+4. **A comment-keyword CTA**: one word to comment to get the resource (see formatting rule 6), worded in your own way.
+
+**Optional (pick 1–3 that fit, and vary which ones you use):**
+- Social proof: who has used it, or what it produced
+- A repost bonus, only if the author actually has one
+- A note to connect so the DM goes through (LinkedIn limits DMs to non-connections)
+- A quick story of why the author made it
+- One real tip from inside, given away to prove the rest is worth it
+- A before/after of someone using it
+- Who it's not for
 
 Advice:
-- The bullets do the selling. Each one should promise a specific result or reveal a specific piece of the resource.
-- Optional: add "(Connect with me so I can DM you)", since LinkedIn limits DMs to people who aren't connections.
+- The preview bullets do the selling. Make each one specific and a little tempting.
+
+**Keep it varied.** Change where the optional pieces go, how long the paragraphs run, how the hook is built and how the post ends. Let the topic decide the shape.
 
 **Length:** 800–1,300 characters (LinkedIn's limit is 3,000).
 
 ## Formatting rules
 
 **1. Hook: open with a bold, attention-grabbing first line.**
-LinkedIn hides everything after roughly the first 2–3 lines (about 200 characters on desktop, less on mobile) behind "…see more". Lines 1–2 must earn the click. "Bold" means bold content, not bold formatting. Patterns that work:
-- A specific result: "We went from 0 to 12,000 followers in 90 days."
-- A contrarian claim: "Cold email isn't dead. Your first line is."
-- Time or effort invested: "I spent 11 hours breaking down 40 of Apple's launch emails."
-- A curiosity gap with a number: "7 hiring mistakes that cost me $200k."
-- A direct callout to the audience: "Founders: stop writing your own LinkedIn posts like blog intros."
-- Personal credibility with recognizable names: the author's own result at well-known companies, schools or clients, plus a hint that the path was simpler than people think. This only works when it's true.
+LinkedIn hides everything after roughly the first 2–3 lines (about 200 characters on desktop, less on mobile) behind "…see more". Lines 1–2 must earn the click. "Bold" means bold content, not bold formatting. Kinds of hooks that work (write your own line for each; don't reuse stock phrasing):
+- A specific result with a number and a timeframe
+- A contrarian claim that flips something the audience believes
+- The time or effort invested in what follows
+- A curiosity gap built on a number (how many mistakes, how much they cost)
+- A direct callout to the audience naming something they're doing wrong
+- Personal credibility with recognizable names: the author's own result at well-known companies, schools or clients. This only works when it's true.
 
 Avoid warm-ups such as "I'm excited to share", "In today's world" and "Let's talk about…", and avoid starting with a question the reader can answer "no" to.
 
-The second line should either add tension ("Most people get this wrong."), promise a payoff ("Here's exactly how:"), or reduce the topic to a few parts (one short line, then a numbered list).
+The second line should add tension, promise a payoff, or reduce the topic to a few parts.
 
 **2. Short sentences, generous line breaks.**
 Keep sentences to about 1–2 lines on mobile. Put a blank line between most lines. Most paragraphs should be 1–2 sentences. A 3–5 sentence paragraph is fine once or twice, where the author is talking personally (answering an objection, or a personal aside). Mixing very short lines with the odd longer paragraph reads more human than one-liners all the way down. White space is what makes a post skimmable on LinkedIn.
@@ -67,12 +78,12 @@ Keep sentences to about 1–2 lines on mobile. Put a blank line between most lin
 Use a few emoji at most, and only if the author's voice uses them. Don't put an emoji at the start of every line.
 
 **4. Specifics everywhere.**
-Write exact numbers, timeframes and results ("37%", "in 21 days", "from 3 to 41 demos/month"), not "a lot", "quickly" or "significant growth". Specific details are what make a post believable. (See Inputs for which ones you can fill in.)
+Write exact numbers, timeframes and results, not "a lot", "quickly" or "significant growth". Specific details are what make a post believable. (See Inputs for which ones you can fill in.)
 
 **5. Social proof or credibility markers.**
-Examples: who it was used by, results it produced, the author's relevant experience ("After running ads for 40+ SaaS brands…"), or well-known names the work analyzes. Numbers can be filled in, but names of clients, companies or people come from the author or stay placeholders.
+Examples: who it was used by, results it produced, the author's relevant experience, or well-known names the work analyzes. Numbers can be filled in, but names of clients, companies or people come from the author or stay placeholders.
 
-**6. A clear comment CTA: "Comment '[WORD]' and I'll send it to you."**
+**6. A clear comment CTA: readers comment one keyword to get the resource.**
 - Choose one short, all-caps keyword that matches the resource: GUIDE, TEMPLATE, PLAYBOOK, SWIPE, BREAKDOWN, CHECKLIST.
 - Keep it to one word that's easy to type on a phone and not something people would comment anyway (avoid YES or WOW).
 - Comments push the post's distribution, and the keyword shows the author who wants the resource.
@@ -96,43 +107,9 @@ A reader who only sees the first two lines plus anything formatted with `→`, `
 - Would lines 1–2 make the target reader click "see more"?
 - Is every client, company or person either from the author or a `[placeholder]`, and are the numbers you filled in listed in the note?
 - Can someone get the main point by skimming only the hook, the section headers and the `→`, `-` or numbered lines?
-- Does it end with `Comment '[WORD]' and I'll send it to you`, plus the repost bonus only if a bonus exists?
+- Does it end with a comment-keyword CTA, plus a repost bonus only if a bonus exists?
 - If there's a comment keyword, does it match the resource, and is it one word in all caps?
 - Is it under 3,000 characters, ideally 800–1,300 characters?
 - Does it contain no markdown, no throat-clearing opener and no generic filler ("in today's fast-paced world", "game-changer")?
 - Is it useful to a reader who never comments?
-
-## Example
-
-Illustrative numbers and names. In a real post, filled-in numbers get listed for the author, and names come from the author or stay placeholders.
-
-Inputs: topic = cold email for agency owners; context = has a 12-template swipe file, has used it with ~300 agency owners in their community.
-
-```
-Most cold emails die in the first 7 words.
-
-Not because the offer is bad.
-
-Because the opener sounds like every other email in the inbox.
-
-I see it every week:
-
-- "Hope this finds you well"
-- "I came across your website"
-- "Quick question for you"
-
-Instant archive.
-
-So I put together my Cold Email Swipe File. Inside:
-
-→ 12 openers that get replies from busy founders
-→ The 4-line structure I use for every first touch
-→ 3 follow-ups that don't sound desperate
-→ The subject lines that doubled my open rate
-
-Used by 300+ agency owners in my community.
-
-Comment "SWIPE" and I'll send it to you.
-
-(Connect with me so the DM goes through.)
-```
+- Next to another post from this skill, would it read like the same template with new words? If so, change the shape.

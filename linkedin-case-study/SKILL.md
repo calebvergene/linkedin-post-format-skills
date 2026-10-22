@@ -1,6 +1,6 @@
 ---
 name: linkedin-case-study
-description: Write a LinkedIn case study post with a dramatic before/after contrast ("90 days ago… Today…"), quantified results, how it was done, and the takeaway. Use when the user has real results to share on LinkedIn: client wins, growth numbers, a transformation they want to turn into sales conversations.
+description: Write a LinkedIn case study post with a dramatic, measurable before/after contrast, quantified results, how it was done, and the takeaway. Use when the user has real results to share on LinkedIn: client wins, growth numbers, a transformation they want to turn into sales conversations.
 ---
 
 # LinkedIn Case Study Post
@@ -24,34 +24,46 @@ Write a post that proves a result with a dramatic before/after, then turns reade
 
 ## Structure
 
-1. **Transformation hook**: "[X] days ago: [before]. Today: [after]." Both sides should be concrete and measurable.
-2. **Timeline**: name the exact period (60 days, 90 days, Q3).
-3. **Quantified results** as `→` bullets, 3–5 of them: "→ 4,200 → 31,000 monthly visitors", "→ CAC down 38%".
-4. **Brief method**: "Here's how we did it:" then 3–5 numbered steps. Each step needs to be specific enough that someone could copy it. Don't write "we focused on quality content".
-5. **Key lesson**: "The takeaway?" then one sharp sentence the reader can apply.
-6. **Soft CTA**: "Want similar results? Let's talk." or "DM me 'AUDIT'".
+This format has a few core pieces and a set of optional ones. It is not a template. Don't fill in the same slots in the same order every time, or every post will read like the last one with the words swapped. Write every line fresh for the topic, the audience and the author's voice.
+
+**Core (every post):**
+1. **Before/after contrast**: where things started and where they are now, both concrete and measurable, with the timeframe. It can open the post or come right after a one-line hook.
+2. **Quantified results**: 3–5 numbers, often as `→` lines.
+3. **How it was done**: 3–5 steps specific enough that someone could copy them. "We focused on quality content" doesn't count.
+4. **A soft CTA toward a conversation** (a DM or a call), plus a comment keyword only if the author also has a resource to send.
+
+**Optional (pick 1–3 that fit, and vary which ones you use):**
+- The one lesson the reader should take away
+- What stayed the same (same budget, same team), which makes the change more striking
+- Something that didn't work along the way
+- The moment or decision where things turned
+- A counterintuitive choice that paid off
+- Who the client was, described without a name unless the author gave one
+- What comes next
 
 Advice:
-- This format deliberately uses a softer CTA than formatting rule 6, because its goal is to start sales conversations. If the author also has a resource (such as the template used), add a comment-keyword line as well.
-- A client's name or permission matters. If the context doesn't name the client, describe them ("a 12-person B2B SaaS team"), never invent a name.
-- Credibility comes from honesty. Mentioning one thing that didn't work makes the post more believable.
+- The goal is to start sales conversations, which is why the CTA is softer than formatting rule 6.
+- If the context doesn't name the client, describe them (size, industry), never invent a name.
+- Honesty builds credibility. One thing that didn't work makes the rest more believable.
+
+**Keep it varied.** Change where the optional pieces go, how long the paragraphs run, how the hook is built and how the post ends. Let the topic decide the shape.
 
 **Length:** 900–1,500 characters (LinkedIn's limit is 3,000).
 
 ## Formatting rules
 
 **1. Hook: open with a bold, attention-grabbing first line.**
-LinkedIn hides everything after roughly the first 2–3 lines (about 200 characters on desktop, less on mobile) behind "…see more". Lines 1–2 must earn the click. "Bold" means bold content, not bold formatting. Patterns that work:
-- A specific result: "We went from 0 to 12,000 followers in 90 days."
-- A contrarian claim: "Cold email isn't dead. Your first line is."
-- Time or effort invested: "I spent 11 hours breaking down 40 of Apple's launch emails."
-- A curiosity gap with a number: "7 hiring mistakes that cost me $200k."
-- A direct callout to the audience: "Founders: stop writing your own LinkedIn posts like blog intros."
-- Personal credibility with recognizable names: the author's own result at well-known companies, schools or clients, plus a hint that the path was simpler than people think. This only works when it's true.
+LinkedIn hides everything after roughly the first 2–3 lines (about 200 characters on desktop, less on mobile) behind "…see more". Lines 1–2 must earn the click. "Bold" means bold content, not bold formatting. Kinds of hooks that work (write your own line for each; don't reuse stock phrasing):
+- A specific result with a number and a timeframe
+- A contrarian claim that flips something the audience believes
+- The time or effort invested in what follows
+- A curiosity gap built on a number (how many mistakes, how much they cost)
+- A direct callout to the audience naming something they're doing wrong
+- Personal credibility with recognizable names: the author's own result at well-known companies, schools or clients. This only works when it's true.
 
 Avoid warm-ups such as "I'm excited to share", "In today's world" and "Let's talk about…", and avoid starting with a question the reader can answer "no" to.
 
-The second line should either add tension ("Most people get this wrong."), promise a payoff ("Here's exactly how:"), or reduce the topic to a few parts (one short line, then a numbered list).
+The second line should add tension, promise a payoff, or reduce the topic to a few parts.
 
 **2. Short sentences, generous line breaks.**
 Keep sentences to about 1–2 lines on mobile. Put a blank line between most lines. Most paragraphs should be 1–2 sentences. A 3–5 sentence paragraph is fine once or twice, where the author is talking personally (answering an objection, or a personal aside). Mixing very short lines with the odd longer paragraph reads more human than one-liners all the way down. White space is what makes a post skimmable on LinkedIn.
@@ -68,12 +80,12 @@ Keep sentences to about 1–2 lines on mobile. Put a blank line between most lin
 Use a few emoji at most, and only if the author's voice uses them. Don't put an emoji at the start of every line.
 
 **4. Specifics everywhere.**
-Write exact numbers, timeframes and results ("37%", "in 21 days", "from 3 to 41 demos/month"), not "a lot", "quickly" or "significant growth". Specific details are what make a post believable. (See Inputs for which ones you can fill in.)
+Write exact numbers, timeframes and results, not "a lot", "quickly" or "significant growth". Specific details are what make a post believable. (See Inputs for which ones you can fill in.)
 
 **5. Social proof or credibility markers.**
-Examples: who it was used by, results it produced, the author's relevant experience ("After running ads for 40+ SaaS brands…"), or well-known names the work analyzes. Numbers can be filled in, but names of clients, companies or people come from the author or stay placeholders.
+Examples: who it was used by, results it produced, the author's relevant experience, or well-known names the work analyzes. Numbers can be filled in, but names of clients, companies or people come from the author or stay placeholders.
 
-**6. A clear comment CTA: "Comment '[WORD]' and I'll send it to you."**
+**6. A clear comment CTA: readers comment one keyword to get the resource.**
 - Choose one short, all-caps keyword that matches the resource: GUIDE, TEMPLATE, PLAYBOOK, SWIPE, BREAKDOWN, CHECKLIST.
 - Keep it to one word that's easy to type on a phone and not something people would comment anyway (avoid YES or WOW).
 - Comments push the post's distribution, and the keyword shows the author who wants the resource.
@@ -97,41 +109,9 @@ A reader who only sees the first two lines plus anything formatted with `→`, `
 - Would lines 1–2 make the target reader click "see more"?
 - Is every client, company or person either from the author or a `[placeholder]`, and are the numbers you filled in listed in the note?
 - Can someone get the main point by skimming only the hook, the section headers and the `→`, `-` or numbered lines?
-- Does it end with a soft CTA ("Want similar results? Let's talk."), plus a comment keyword only if there's a real resource?
+- Does it end with a soft CTA toward a conversation, plus a comment keyword only if there's a real resource?
 - If there's a comment keyword, does it match the resource, and is it one word in all caps?
 - Is it under 3,000 characters, ideally 900–1,500 characters?
 - Does it contain no markdown, no throat-clearing opener and no generic filler ("in today's fast-paced world", "game-changer")?
 - Is it useful to a reader who never comments?
-
-## Example
-
-Illustrative numbers and names. In a real post, filled-in numbers get listed for the author, and names come from the author or stay placeholders.
-
-Inputs: topic = LinkedIn content for a B2B SaaS founder; result = 0 → 18 demos/month; timeframe = 90 days; context = client is a 12-person dev-tools startup, posted 4x/week.
-
-```
-90 days ago: 0 inbound demos. Founder posting once a month.
-
-Today: 18 demos a month from LinkedIn alone.
-
-Same product. Same team. Same budget.
-
-What changed in 90 days:
-
-→ 2,100 → 9,400 followers
-→ 0 → 18 inbound demos/month
-→ 3 posts over 200k impressions
-
-Here's how we did it:
-
-1. Cut topics to 3 the buyer actually cares about
-2. Posted 4x a week, every week, no exceptions
-3. Every post ended with one clear CTA
-4. Turned the founder's sales calls into post ideas
-
-The takeaway?
-
-Your buyers already told you what to post. It's in your call notes.
-
-Want similar results? Let's talk.
-```
+- Next to another post from this skill, would it read like the same template with new words? If so, change the shape.

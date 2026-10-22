@@ -25,38 +25,44 @@ Write a post that gets as much reach as possible by teasing a comprehensive anal
 
 ## Structure
 
-1. **Hook**: an impressive case study or analysis, e.g. "I analyzed 100 of Hormozi's top posts. 9 patterns showed up again and again."
-2. **Tease the effort**: "I spent [8+] hours breaking down…" The work invested is what makes it valuable.
-3. **What's inside**: 6–10 `→` bullets listing frameworks, strategies and examples ("→ The 3-part hook formula behind his 5 most-shared posts").
-4. **Name-drop recognizable figures or brands** in the hook and the bullets. Familiar names stop people scrolling.
-5. **Triple CTA**:
-   "Want it?
-   1. Like this post
-   2. Comment 'BREAKDOWN'
-   3. Connect with me (so I can DM you)"
-6. **Bonus**: "I'll also send you a 30-min walkthrough video." Only include it if one exists or will exist; otherwise use a placeholder.
+This format has a few core pieces and a set of optional ones. It is not a template. Don't fill in the same slots in the same order every time, or every post will read like the last one with the words swapped. Write every line fresh for the topic, the audience and the author's voice.
+
+**Core (every post):**
+1. **Hook**: the scale of the analysis plus recognizable names whose public work was analyzed.
+2. **The effort behind it**: how much work went in (hours, how many examples). The work invested is what makes it valuable.
+3. **What's inside**: 6–10 concrete bullets listing frameworks, strategies and examples, with names where they fit.
+4. **A triple CTA**: like the post, comment a keyword, and connect so the DM goes through. Word it your own way.
+
+**Optional (pick 1–3 that fit, and vary which ones you use):**
+- A bonus (a walkthrough video, a template), only if one exists
+- One finding given away in full, to prove the rest is worth it
+- A pattern that surprised the author
+- The author's own result from using these frameworks, if they gave one
+- Who it's for
+- A ranking or comparison between the names analyzed
 
 Advice:
 - Only name-drop people or brands whose public work is actually analyzed. Don't imply they endorse the author or worked with them.
 - If the analysis doesn't exist yet, write the post with placeholders and tell the author what they need to produce before posting.
-- If the user gave a result or timeframe, use them as credibility, e.g. "These same frameworks got me 100k views in 60 days."
+
+**Keep it varied.** Change where the optional pieces go, how long the paragraphs run, how the hook is built and how the post ends. Let the topic decide the shape.
 
 **Length:** 1,300–2,200 characters (LinkedIn's limit is 3,000).
 
 ## Formatting rules
 
 **1. Hook: open with a bold, attention-grabbing first line.**
-LinkedIn hides everything after roughly the first 2–3 lines (about 200 characters on desktop, less on mobile) behind "…see more". Lines 1–2 must earn the click. "Bold" means bold content, not bold formatting. Patterns that work:
-- A specific result: "We went from 0 to 12,000 followers in 90 days."
-- A contrarian claim: "Cold email isn't dead. Your first line is."
-- Time or effort invested: "I spent 11 hours breaking down 40 of Apple's launch emails."
-- A curiosity gap with a number: "7 hiring mistakes that cost me $200k."
-- A direct callout to the audience: "Founders: stop writing your own LinkedIn posts like blog intros."
-- Personal credibility with recognizable names: the author's own result at well-known companies, schools or clients, plus a hint that the path was simpler than people think. This only works when it's true.
+LinkedIn hides everything after roughly the first 2–3 lines (about 200 characters on desktop, less on mobile) behind "…see more". Lines 1–2 must earn the click. "Bold" means bold content, not bold formatting. Kinds of hooks that work (write your own line for each; don't reuse stock phrasing):
+- A specific result with a number and a timeframe
+- A contrarian claim that flips something the audience believes
+- The time or effort invested in what follows
+- A curiosity gap built on a number (how many mistakes, how much they cost)
+- A direct callout to the audience naming something they're doing wrong
+- Personal credibility with recognizable names: the author's own result at well-known companies, schools or clients. This only works when it's true.
 
 Avoid warm-ups such as "I'm excited to share", "In today's world" and "Let's talk about…", and avoid starting with a question the reader can answer "no" to.
 
-The second line should either add tension ("Most people get this wrong."), promise a payoff ("Here's exactly how:"), or reduce the topic to a few parts (one short line, then a numbered list).
+The second line should add tension, promise a payoff, or reduce the topic to a few parts.
 
 **2. Short sentences, generous line breaks.**
 Keep sentences to about 1–2 lines on mobile. Put a blank line between most lines. Most paragraphs should be 1–2 sentences. A 3–5 sentence paragraph is fine once or twice, where the author is talking personally (answering an objection, or a personal aside). Mixing very short lines with the odd longer paragraph reads more human than one-liners all the way down. White space is what makes a post skimmable on LinkedIn.
@@ -73,12 +79,12 @@ Keep sentences to about 1–2 lines on mobile. Put a blank line between most lin
 Use a few emoji at most, and only if the author's voice uses them. Don't put an emoji at the start of every line.
 
 **4. Specifics everywhere.**
-Write exact numbers, timeframes and results ("37%", "in 21 days", "from 3 to 41 demos/month"), not "a lot", "quickly" or "significant growth". Specific details are what make a post believable. (See Inputs for which ones you can fill in.)
+Write exact numbers, timeframes and results, not "a lot", "quickly" or "significant growth". Specific details are what make a post believable. (See Inputs for which ones you can fill in.)
 
 **5. Social proof or credibility markers.**
-Examples: who it was used by, results it produced, the author's relevant experience ("After running ads for 40+ SaaS brands…"), or well-known names the work analyzes. Numbers can be filled in, but names of clients, companies or people come from the author or stay placeholders.
+Examples: who it was used by, results it produced, the author's relevant experience, or well-known names the work analyzes. Numbers can be filled in, but names of clients, companies or people come from the author or stay placeholders.
 
-**6. A clear comment CTA: "Comment '[WORD]' and I'll send it to you."**
+**6. A clear comment CTA: readers comment one keyword to get the resource.**
 - Choose one short, all-caps keyword that matches the resource: GUIDE, TEMPLATE, PLAYBOOK, SWIPE, BREAKDOWN, CHECKLIST.
 - Keep it to one word that's easy to type on a phone and not something people would comment anyway (avoid YES or WOW).
 - Comments push the post's distribution, and the keyword shows the author who wants the resource.
@@ -107,36 +113,4 @@ A reader who only sees the first two lines plus anything formatted with `→`, `
 - Is it under 3,000 characters, ideally 1,300–2,200 characters?
 - Does it contain no markdown, no throat-clearing opener and no generic filler ("in today's fast-paced world", "game-changer")?
 - Is it useful to a reader who never comments?
-
-## Example
-
-Illustrative numbers and names. In a real post, filled-in numbers get listed for the author, and names come from the author or stay placeholders.
-
-Inputs: topic = SaaS pricing pages; result = 100k views; timeframe = 60 days; context = analyzed pricing pages of 30 well-known SaaS companies, recorded a walkthrough.
-
-```
-I broke down the pricing pages of Notion, Figma, Linear, Slack and 26 other SaaS giants.
-
-It took me 11 hours.
-
-Here's what the best ones all do (and most startups miss):
-
-→ The "decoy tier" Slack uses to push you to Pro
-→ Why Linear shows only 3 plans (and hides the 4th)
-→ Figma's annual-billing toggle trick
-→ The 1-line FAQ that cuts Notion's support tickets
-→ 5 layouts ranked by how clear they are
-→ 8 frameworks you can copy this week
-
-These same frameworks helped me get 100k views in 60 days writing about pricing.
-
-I put it all into one breakdown.
-
-Want it?
-
-1. Like this post
-2. Comment "BREAKDOWN"
-3. Connect with me (so I can DM you)
-
-I'll also send you a 30-min walkthrough video.
-```
+- Next to another post from this skill, would it read like the same template with new words? If so, change the shape.
